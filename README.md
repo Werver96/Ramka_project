@@ -1,3 +1,2 @@
 # Ramka_project
-Rubber background
-Teest 1 
+Резиновая таблица
